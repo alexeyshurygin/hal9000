@@ -1,1 +1,1 @@
-# Data Sceince context prep repo
+# Data Science context prep repo
